@@ -1,0 +1,13 @@
+.error-button {
+    text-align: center;
+}
+
+.error-button > .primary-button {
+    display: inline-block;
+    font-size: 30px;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 20px;
+}
